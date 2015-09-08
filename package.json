@@ -1,7 +1,6 @@
 {
   "name": "ravi_asible",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "express": "^4.13.3"
